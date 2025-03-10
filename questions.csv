@@ -1,0 +1,4 @@
+type,question,optionA,optionB,optionC,optionD,correctAnswer
+multiple,"請問1+1等於多少? :","1","2","3","4","2"
+multiple,"請問2+2等於多少? :","2","4","6","8","4"
+fill,"請問3+3等於多少? :","6",,,,"6"
